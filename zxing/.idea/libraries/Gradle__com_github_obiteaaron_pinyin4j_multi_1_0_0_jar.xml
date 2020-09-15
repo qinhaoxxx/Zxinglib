@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.obiteaaron:pinyin4j-multi:1.0.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.obiteaaron/pinyin4j-multi/1.0.0/c7d91d6abaf36f761d0b9cf211516819cdbff311/pinyin4j-multi-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.obiteaaron/pinyin4j-multi/1.0.0/3c8a24a481a61ad6ccead3070421d0a21138ee1b/pinyin4j-multi-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.obiteaaron/pinyin4j-multi/1.0.0/4c53a5cbfd3d501ca0535483ffc46fb79672563d/pinyin4j-multi-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

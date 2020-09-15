@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xgr.easypay:alipay:2.0.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1669cf5bd1d16afa304ef075dc88b7d9/jetified-alipay-2.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1669cf5bd1d16afa304ef075dc88b7d9/jetified-alipay-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1669cf5bd1d16afa304ef075dc88b7d9/jetified-alipay-2.0.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1669cf5bd1d16afa304ef075dc88b7d9/jetified-alipay-2.0.5/jars/libs/r-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xgr.easypay/alipay/2.0.5/ad617b63fee0324168488d4db9ee6e251d6fd478/alipay-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xgr.easypay/alipay/2.0.5/a2b943c4c760ad3eaf65dac61c3300df1ed3b4be/alipay-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

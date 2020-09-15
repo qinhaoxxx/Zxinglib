@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/612495108/TiFenBaoDian.iml" filepath="$PROJECT_DIR$/.idea/modules/612495108/TiFenBaoDian.iml" group="TiFenBaoDian" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/608281750/app.iml" filepath="$PROJECT_DIR$/.idea/modules/608281750/app.iml" group="TiFenBaoDian/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1676923850/core.iml" filepath="$PROJECT_DIR$/.idea/modules/1676923850/core.iml" group="TiFenBaoDian/core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1274550300/videoModule.iml" filepath="$PROJECT_DIR$/.idea/modules/1274550300/videoModule.iml" group="TiFenBaoDian/videoModule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zxing.iml" filepath="$PROJECT_DIR$/.idea/modules/zxing.iml" group="TiFenBaoDian/zxing" />
+    </modules>
+  </component>
+</project>

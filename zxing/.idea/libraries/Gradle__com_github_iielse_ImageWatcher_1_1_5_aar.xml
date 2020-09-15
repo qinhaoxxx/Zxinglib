@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.iielse:ImageWatcher:1.1.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/015ea00d79e042d9089eada4f47980fd/jetified-ImageWatcher-1.1.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/015ea00d79e042d9089eada4f47980fd/jetified-ImageWatcher-1.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/015ea00d79e042d9089eada4f47980fd/jetified-ImageWatcher-1.1.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.iielse/ImageWatcher/1.1.5/282075fcb51faf05588a4fc8ff5e74bfdb54a19a/ImageWatcher-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MyMrXu:YCWebView:1.5.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e229780089d59b78f24b4b84f293e871/jetified-YCWebView-1.5.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e229780089d59b78f24b4b84f293e871/jetified-YCWebView-1.5.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e229780089d59b78f24b4b84f293e871/jetified-YCWebView-1.5.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e229780089d59b78f24b4b84f293e871/jetified-YCWebView-1.5.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e229780089d59b78f24b4b84f293e871/jetified-YCWebView-1.5.4/jars/libs/tbs_sdk_thirdapp_v4.3.0.39_43939_sharewithdownloadwithfile_withoutGame_obfs_20200713_223411.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MyMrXu/YCWebView/1.5.4/78159578a3f57515aa6fa3a78f14aa98cff1850d/YCWebView-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

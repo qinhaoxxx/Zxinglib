@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MyMrXu:LoadSir:1.3.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dee413bc123b6e2c6bc32f62e96ee67/jetified-LoadSir-1.3.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dee413bc123b6e2c6bc32f62e96ee67/jetified-LoadSir-1.3.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0dee413bc123b6e2c6bc32f62e96ee67/jetified-LoadSir-1.3.9/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MyMrXu/LoadSir/1.3.9/474c6a35b422357522a5995d5603f31cf1dcb463/LoadSir-1.3.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MyMrXu/LoadSir/1.3.9/8db3e4556a7fe34c15a8e9f34a2663c36cea6d95/LoadSir-1.3.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

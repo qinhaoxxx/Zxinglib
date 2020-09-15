@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xgr.easypay:EasyPay:2.0.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6236882ad7f71d96f287d03546173ba7/jetified-EasyPay-2.0.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6236882ad7f71d96f287d03546173ba7/jetified-EasyPay-2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6236882ad7f71d96f287d03546173ba7/jetified-EasyPay-2.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xgr.easypay/EasyPay/2.0.5/c6b382a3ca11e40d70e2dece0738872cdeff71d6/EasyPay-2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xgr.easypay/EasyPay/2.0.5/87b0a031912a76d851bdc5f7f863d290f0955cba/EasyPay-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

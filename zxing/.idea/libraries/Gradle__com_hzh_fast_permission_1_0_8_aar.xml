@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hzh:fast-permission:1.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5bd0f94800b9800b46730d1c902a2a4/jetified-fast-permission-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5bd0f94800b9800b46730d1c902a2a4/jetified-fast-permission-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5bd0f94800b9800b46730d1c902a2a4/jetified-fast-permission-1.0.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hzh/fast-permission/1.0.8/b784bd6bbe5672b9cb60a190993e93e76c432016/fast-permission-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hzh/fast-permission/1.0.8/9f30b956750251676f75f0e6e5034a0b75cbcbbc/fast-permission-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
