@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <SurfaceView
+        android:id="@+id/preview_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.txby.zxing.view.ViewfinderView
+        android:id="@+id/viewfinder_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:inner_corner_color="#ef1428"
+        app:inner_corner_length="10dp"
+        app:inner_corner_width="2dp"
+        app:inner_height="250dp"
+        app:inner_width="250dp"
+        app:inner_scan_bitmap="@mipmap/saomiao"
+        app:inner_scan_speed="20" />
+
+    <!--<TextView-->
+    <!--android:paddingBottom="176dp"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:id="@+id/tv"-->
+    <!--android:text="将二维码/条码放入框内，即可自动扫描。"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:textSize="12sp"-->
+    <!--android:textColor="#FFFFFEFE"-->
+    <!--android:layout_height="wrap_content"/>-->
+</RelativeLayout>
