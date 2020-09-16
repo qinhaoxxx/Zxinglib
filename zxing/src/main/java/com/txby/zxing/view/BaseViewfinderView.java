@@ -25,7 +25,7 @@ import java.util.HashSet;
 /**
  * 自定义组件实现,扫描功能
  */
-public final class BaseViewfinderView extends View {
+public final class BaseViewfinderView extends ViewfinderView {
 
     private static final long ANIMATION_DELAY = 100L;
     private static final int OPAQUE = 0xFF;
